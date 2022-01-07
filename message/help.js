@@ -579,10 +579,10 @@ AMAN? 100% AMAN NO TIPU MALAHAN AMANAH`
 }
 
 exports.upprembot = (nomerowner) => {
-  return`*「 LAYNA IKLAN 」*
+  return`*「 INFO FERI BOTZ 」*
 
 ❑ Upgrade Premium : 5K/BULAN
-❑ Perpanjang Premium: 3K/BULAN
+❑ Perpanjang Premium: 4K/BULAN
 ❑ Premium + Sewa Bot : 10K (Promo)
 ❑ Order : wa.me/${nomerowner}?text=BANG+MAU+UPGRADE+PREMIUM
 ────────────────────
@@ -593,5 +593,5 @@ exports.upprembot = (nomerowner) => {
 ❑ Pembayaran : DANA/OVO/GOPAY/PULSA 
 ❑ Note : KIRIM SCREENSHOT SEBAGAI BUKTI KE NOMOR wa.me/${nomerowner}
 
-*「 LAYNA BOT OFFICIAL 」*`
+*「 FERI BOTZ OFFICIAL 」*`
 }
